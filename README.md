@@ -1,6 +1,5 @@
 # VignetteMaskEffect
 
-# Vignette Package
 
 A powerful and flexible texture-based vignette system for Unity URP (Universal Render Pipeline).
 
